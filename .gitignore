@@ -1,0 +1,15 @@
+.DS_Store
+.cache
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.Rhistory
+.RData
+
+lib/*
+work/*
+
+# Don't ignore gitkeep files (keep empty folders)
+!.gitkeep
